@@ -1,110 +1,177 @@
 [
     {
-        "title": "Terrace with green plants on night street",
-        "date": "October 20, 2020",
-        "credit": "Photo by Aldiyar Seitkassymov",
-        "linkToAuthor": "https://www.pexels.com/photo/terrace-with-green-plants-on-night-street-3100835/",
-        "src": "terrace-window.jpg",
-        "alt": "Terrace outside shop window with green plants and pink tree on night street",
+        "title": "Bear in a honey pot",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "bear.jpeg",
+        "alt": "A photo of a felt bear with its arms spread sitting in a small glass honey jar",
         "imgDir": "/images/"
     },
     {
-        "title": "Highway covered in water",
-        "date": "October 20, 2020",
-        "credit": "Photo by Josh Hild",
-        "linkToAuthor": "https://www.pexels.com/photo/highway-covered-in-water-2524368/",
-        "src": "highway-water.jpg",
-        "alt": "Skybridge over highway covered in water",
+        "title": "Bird on bark",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "bird.jpeg",
+        "alt": "A photo of a small carved bird perched on some bark",
         "imgDir": "/images/"
     },
     {
-        "title": "Brown painted wall on dim light",
-        "date": "October 18, 2020",
-        "credit": "Photo by Lukas Hartmann",
-        "linkToAuthor": "https://www.pexels.com/photo/brown-painted-wall-on-dim-light-1055613/",
-        "src": "benches.jpg",
-        "alt": "Brown painted wall with two benches and dim light above",
+        "title": "Bird on a hook",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "birdhook.jpeg",
+        "alt": "A photo of a small carved bird perched on a metal hook",
         "imgDir": "/images/"
     },
     {
-        "title": "Red light streaks across a street intersection at night",
-        "date": "October 16, 2020",
-        "credit": "Photo by Jan Kopriva",
-        "linkToAuthor": "https://www.pexels.com/photo/light-streaks-3290601/",
-        "src": "light-streaks.jpg",
-        "alt": "Red light streaks across a street intersection at night",
+        "title": "Cicada on bark",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "bug.jpeg",
+        "alt": "A photo of a small carved cicada sitting on some bark",
         "imgDir": "/images/"
     },
     {
-        "title": "Abstract architecture black and white boardwalk",
-        "date": "October 14, 2020",
-        "credit": "Photo by Pixabay",
-        "linkToAuthor": "https://www.pexels.com/photo/abstract-architecture-black-and-white-boardwalk-262367/",
-        "src": "boardwalk.jpg",
-        "alt": "Abstract architecture black and white boardwalk with glass like floor",
+        "title": "Cardinal in a tree",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "cardinal.jpeg",
+        "alt": "A photo of a cardinal sitting in a tree",
         "imgDir": "/images/"
     },
     {
-        "title": "Person holding glass mason jar with night sky background",
-        "date": "October 12, 2020",
-        "credit": "Photo by Rakicevic Nenad",
-        "linkToAuthor": "https://www.pexels.com/photo/silhouette-of-person-holding-glass-mason-jar-1274260/",
-        "src": "glass-jar.jpg",
-        "alt": "Person holding glass mason jar with night sky background",
+        "title": "Royal chicken",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "chicken.jpeg",
+        "alt": "A photo of a drawing of a chicken with an eggshell on its head like a crown",
         "imgDir": "/images/"
     },
     {
-        "title": "Radio City Music Hall During Night Time",
-        "date": "October 11, 2020",
-        "credit": "Photo by Bao Dang",
-        "linkToAuthor": "https://www.pexels.com/photo/radio-city-music-hall-during-night-time-3700369/",
-        "src": "music-hall.jpg",
-        "alt": "Music hall with bright lights during night time",
+        "title": "Chicks",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "chicks.jpeg",
+        "alt": "A photo of eight puffy chicks standing in straw",
         "imgDir": "/images/"
     },
     {
-        "title": "City Building Office Architecture",
-        "date": "October 10, 2020",
-        "credit": "Photo by Jayson Marquez",
-        "linkToAuthor": "https://www.pexels.com/photo/city-building-office-architecture-4850412/",
-        "src": "business-center.jpg",
-        "alt": "Tall highrise office building with winding architecture",
+        "title": "Chikadee",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "chikadee.jpeg",
+        "alt": "A photo of a chikadee sitting on a branch",
         "imgDir": "/images/"
     },
     {
-        "title": "Buildings during nighttime",
-        "date": "October 9, 2020",
-        "credit": "Photo by Aleksandar Pasaric",
-        "linkToAuthor": "https://www.pexels.com/photo/photo-of-buildings-during-nighttime-2603464/",
-        "src": "highrises-night.jpg",
-        "alt": "Buildings during nighttime with orange lighting and water below",
+        "title": "Driveway in winter",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "driveway.jpeg",
+        "alt": "A photo of a painting of a snow covered driveway through a forest",
         "imgDir": "/images/"
     },
     {
-        "title": "Water Droplet Digital Wallpaper",
-        "date": "October 11, 2020",
-        "credit": "Photo by Sourav Mishra",
-        "linkToAuthor": "https://www.pexels.com/photo/water-droplet-digital-wallpaper-1100946/",
-        "src": "water-drop.jpg",
-        "alt": "Rain drop bursting water particles upwards into the air",
+        "title": "Eagle over the city",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "eagle.jpeg",
+        "alt": "A photo of an ink drawing of an eagle soaring over a city grid",
         "imgDir": "/images/"
     },
     {
-        "title": "Man walking on the empty street",
-        "date": "October 15, 2020",
-        "credit": "Photo by Marco Trinidad",
-        "linkToAuthor": "https://www.pexels.com/photo/photo-of-empty-road-during-daytime-3295140/",
-        "src": "empty-road.jpg",
-        "alt": "An empty road during daytime with fog in the background",
+        "title": "Fox scene",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "fox.jpeg",
+        "alt": "A photo of a felt fox wearing a coat standing amidst small trees in a wooden frame",
         "imgDir": "/images/"
     },
     {
-        "title": "Gasoline station during nighttime",
-        "date": "October 23, 2020",
-        "credit": "Photo by Artem Saranin",
-        "linkToAuthor": "https://www.pexels.com/photo/gasoline-station-during-nighttime-1453781/",
-        "src": "gas-station.jpg",
-        "alt": "Gasoline station during nighttime with glowing red roof lights",
+        "title": "Goat",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "goat.jpeg",
+        "alt": "A photo of a metal goat head hanging on a wall with a bucket beneath its beard",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Chipmunk plays harmonica",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "harmonica.jpeg",
+        "alt": "A photo of an ink drawing of a chipmunk playing harmonica",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "A pan on a hook",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "hookpan.jpeg",
+        "alt": "A photo of four metal hooks attached to a wooden backing with a castiron pan hanging from one of the hooks",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Ice on a stream",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "ice.jpeg",
+        "alt": "A photo of patchy digital ice over a stream",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Icicles",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "ice2.jpeg",
+        "alt": "A photo of icicles forming over a body of water",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Icy tree",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "icytree.jpeg",
+        "alt": "A photo of snow covered tree branches backed by a blue sky",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Snowy owl",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "owl.jpeg",
+        "alt": "A photo of a snowy owl sitting on top a clothesline post",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Powerlines",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "power.jpeg",
+        "alt": "A photo of powerlines through prairie fields with clouds behind them",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Felt sheep",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "sheep.jpeg",
+        "alt": "A photo of a felt sheep",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Boat at shore",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "shore.jpeg",
+        "alt": "A photo of a red boat just offshore in wavy waters",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Prairie skies",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "sky.jpeg",
+        "alt": "A photo of a prairie field with puffy clouds below a blue sky, capped by the moon",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Locomotive",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "train.jpeg",
+        "alt": "A photo of a train locomotive",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Train",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "train2.jpeg",
+        "alt": "A photo of a long train of oil cars",
+        "imgDir": "/images/"
+    },
+    {
+        "title": "Tunnel",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "tunnel.jpeg",
+        "alt": "A photo from the inside of a tunnel, looking out through the opening at a choppy lake",
         "imgDir": "/images/"
     }
 ]
