@@ -1,29 +1,26 @@
 {   
     "author": {
-        "firstName": "John",
-        "lastName": "Smith",
-        "email": "foobar@gmail.com",
-        "twitterHandle": "tannerdolby",
-        "about": "Freelance photographer interested in film and cinematography"
+        "firstName": "Nicolas",
+        "lastName": "Narvaez",
+        "email": "niconarvaez25@gmail.com",
+        "about": "Manitoban-Nicaraguan multimedia artist"
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "instagram": "https://www.instagram.com/nico2555/",
+        "facebook": "https://www.facebook.com/nicolas.soza"
     },
     "pageMetadata": {
         "home": {
-            "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
+            "content": "Nico's home page"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "A gallery of Nico's art"
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "Featured art"
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "About Nico"
         }
 
     }
