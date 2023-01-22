@@ -7,6 +7,13 @@
         "imgDir": "/images/"
     },
     {
+        "title": "Bear holding fish",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "bear-fish.jpeg",
+        "alt": "A photo of a painting of a happy black bear with its arms around a large golden fish",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Bird on bark",
         "credit": "Photo and artwork by Nicolas Narvaez",
         "src": "bird.jpeg",
