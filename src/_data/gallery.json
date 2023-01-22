@@ -42,6 +42,13 @@
         "imgDir": "/images/"
     },
     {
+        "title": "Wrought iron candle holder",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "candles.jpeg",
+        "alt": "A photo of a wrought iron candle holder with two lit candles",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Royal chicken",
         "credit": "Photo and artwork by Nicolas Narvaez",
         "src": "chicken.jpeg",
