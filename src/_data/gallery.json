@@ -49,6 +49,13 @@
         "imgDir": "/images/"
     },
     {
+        "title": "Chipmunks in discussion",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "chipmunks-tree.jpeg",
+        "alt": "A photo of a drawing of two well-dressed and well-armed chipmunks having a discussion on a tree branch",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Royal chicken",
         "credit": "Photo and artwork by Nicolas Narvaez",
         "src": "chicken.jpeg",
