@@ -77,6 +77,13 @@
         "imgDir": "/images/"
     },
     {
+        "title": "Stormcloud",
+        "credit": "Photo and artwork by Nicolas Narvaez",
+        "src": "cloud.jpeg",
+        "alt": "A photo of a painting of a large cumulonimbus cloud with three billowing pillars rising from it",
+        "imgDir": "/images/"
+    },
+    {
         "title": "Driveway in winter",
         "credit": "Photo and artwork by Nicolas Narvaez",
         "src": "driveway.jpeg",
