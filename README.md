@@ -1,3 +1,7 @@
+# Nico's Website
+
+https://flyingpheasantstudio.ca
+
 # Eleventy Photo Gallery
 
 A starter site for creating your own photo or art gallery using the [Eleventy](https://github.com/11ty/eleventy) static site generator.
